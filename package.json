@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "ip": "^1.1.5",
-    "ws": "^7.3.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@types/ip": "^1.1.0",
